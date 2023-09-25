@@ -1,0 +1,12 @@
+1  nucleos	3.0501 seconds
+2  nucleos	1.6862 seconds
+3  nucleos	1.4983 seconds
+4  nucleos	1.6836 seconds
+8  nucleos	1.6843 seconds
+	
+	
+1  nucleos2  nucleos3  nucleos4  nucleos8  nucleos	2.8933 seconds
+	1.6806 seconds
+	1.5493 seconds
+	1.5516 seconds
+	2.1457 seconds
